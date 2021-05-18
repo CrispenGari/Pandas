@@ -8,7 +8,7 @@ This is a simple quick guide on working with files in pandas. We will be working
 <img src="https://img.shields.io/static/v1?label=liked-most&message=pandas&color=red"/>
 </p>
 <p align="center">
-    <img src="https://github.com/CrispenGari/Pandas/blob/main/1200px-Pandas_logo.svg.png"/>
+    <img src="https://github.com/CrispenGari/Pandas/blob/main/1200px-Pandas_logo.svg.png"/ width="300px" >
 </p>
 
 - CSV
